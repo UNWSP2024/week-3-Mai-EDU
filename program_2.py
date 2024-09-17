@@ -1,5 +1,6 @@
 # Programmer: Mai Lillie
 # Date: 9/17/24
+# Age Categories
 
 def categorize_age(age):
     age_category = "TBD"
