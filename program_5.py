@@ -1,5 +1,6 @@
 # Programmer: Mai Lillie
 # Date: 9/17/24
+# Hot Dog Shop
 
 # user input and variables
 dog_type = input("Would you like a Chili Dog or Hot Dog?: ")
