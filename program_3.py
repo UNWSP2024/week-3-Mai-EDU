@@ -1,5 +1,6 @@
 # Programmer: Mai Lillie
 # Date: 9/17/24
+# Shipping Company
 
 def weight_conversion(weight):
     # Calculate the shipping charge.
